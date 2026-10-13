@@ -19,6 +19,7 @@ function App() {
       <header className="site-header">
         <a className="brand" href="#inicio" aria-label="Ir al inicio">
           <span className="brand-mark" aria-hidden="true">⌁</span>
+          <button className="brand-name" aria-hidden="true">INFRAESTRUCTURA CLOUD</button>
           <span>Taller 1 - PaaS con Coolify</span>
         </a>
         <nav aria-label="Navegación principal">
